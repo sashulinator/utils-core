@@ -1,6 +1,7 @@
 export * from './assertions/not-nil'
 export * from './assertions/not-null'
 export * from './assertions/defined'
+export * from './assertions/string'
 
 export * from './is/dev'
 export * from './is/mac'
