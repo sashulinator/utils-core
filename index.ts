@@ -30,5 +30,6 @@ export * from './set-document-title'
 export * from './generate-id'
 export * from './curry'
 export * from './invariant'
+export * from './random'
 
 export * from './type-test'
